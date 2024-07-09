@@ -19,7 +19,7 @@ nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    margin: 50px 768px 50162px 150px  ;
+    margin: 50px 143px;
 
 }
 .nav title{
@@ -38,11 +38,38 @@ nav ul{
    margin-left: 768px;
 }
 
+/* banner styles */
+.banner-summery{
+    font-size: 48px;
+    font-weight: 700;
+
+    /* banner description */
+    .paragraph
+    font-size: 16px;
+    font-weight: 400;
+    
+
+    
+    
+}
+
 .btn-primary{
 background-color:whitesmoke;
 font-weight: 20px;
 color: #0D1321;
 padding: 17px 24px;
 border-radius: 8px;
+
+
+}
+.btn-primary2{
+    background-color: #0D1321;
+    font-weight: 20px;
+    color: white;
+    padding: 21px 24px;
+    border-radius: 8px;
+    
+
+
 
 }
