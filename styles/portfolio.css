@@ -1,0 +1,48 @@
+
+
+.azeret-mono-azert {
+  font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+  
+}
+/* common style */
+.text-primary{
+    color: #0D1321;
+}
+.all-color{
+    color: #0D1321;
+}
+
+/* nav styles */
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 50px 768px 50162px 150px  ;
+
+}
+.nav title{
+    font-weight: 800;
+    font-size: 28px;
+}
+
+nav ul li{
+    list-style: none;
+    
+    
+}
+
+nav ul{
+    display: flex;
+   margin-left: 768px;
+}
+
+.btn-primary{
+background-color:whitesmoke;
+font-weight: 20px;
+color: #0D1321;
+padding: 17px 24px;
+border-radius: 8px;
+
+}
