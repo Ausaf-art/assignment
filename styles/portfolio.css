@@ -127,5 +127,9 @@ item-title{
     font-size: ;
 }
 
- 
+ my-inspiration{
+    font-style: normal;
+    display: flex;
+    width: 144px 130px;
+ }
  
