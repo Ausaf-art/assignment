@@ -6,9 +6,6 @@
   font-style: normal;
   
 }
-#heading-parent{
- 
-}
 /* common style */
 
 .text-primary{
@@ -92,12 +89,12 @@ border-radius: 8px;
     position: relative;
     margin: 32px 377px;
 }
-banner-image1{
+.banner-image1{}
     max-width: 958px;
    position: relative;
     
 
-}
+
 
  header{
     max-width: 958px;
@@ -123,7 +120,8 @@ banner-image1{
 
     
  }
- .btn-primary3{
+ .btn-primary3{ .
+    border-radius:12px 20px ;
     position: inherit;
     padding: 12px 20px;
     margin-top: 32px;
@@ -131,12 +129,12 @@ banner-image1{
 
 
  }
-about-items{
+.about-items{
     margin: 48px;
 
 }
 
-item-titles{
+.item-titles{
     color: #FFFFFF ;
 
 }
@@ -145,29 +143,29 @@ item-titles{
     margin-inline-start: auto;
     grid-template-columns: auto;
     column-gap: 5px;
+    display: flex;
 
 }
-.heading2{
-    text-align: center;
+
     
-}
-item-description{
+
+.item-description{
     display: flex;
     align-items: center;}
 
 
 
- my-inspiration{
+ .my-inspiration{
     font-style: normal;
     display: flex;
     width: 144px 130px;
     margin: 130px 144px 42px 144px;
  }
- about-item{
+ .about-item{
     padding: 25px;
     display: inline;
     row-gap: 30px;
-    justify-content: center;
+    text-align: center;
 }
 
 .container{
