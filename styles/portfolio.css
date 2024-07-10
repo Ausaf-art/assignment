@@ -182,4 +182,19 @@ video{
 
     
 }
-
+footer{
+    background-color: #FFFFFF;
+}
+footercontainer{
+    width: auto;
+    padding: 32px 150px;
+}
+socialicon{
+    display: flex;
+    justify-content: flex-end;
+}
+socialicon{
+    text-decoration: none;
+    height: 32px;
+    
+}
