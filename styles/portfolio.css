@@ -112,7 +112,18 @@ banner-image1{
     max-width: 1140px;
     margin: 119px 69px 90px 73px;
     border-radius: 16px;
+    align-items: center;
+    display: list-item;
+    padding: 97px 97px 48px 97px;
     
+
+    
+ }
+ .btn-primary3{
+    position: inherit;
+    padding: 12px 20px;
+
+
  }
 about-items{
     margin: 48px;
@@ -123,13 +134,21 @@ item-titles{
     color: #FFFFFF ;
 
 }
-item-title{
-    font-size: ;
-}
+item-description{
+    display: flex;
+    align-items: center;
+
+
 
  my-inspiration{
     font-style: normal;
     display: flex;
     width: 144px 130px;
+    margin: 130px 144px 42px 144px;
  }
- 
+div about-item{
+    padding: 25px;
+    display: inline;
+    row-gap: 30px;
+    justify-content: center;
+}
