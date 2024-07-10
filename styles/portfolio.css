@@ -7,6 +7,7 @@
   
 }
 /* common style */
+
 .text-primary{
     color: #0D1321;
 }
@@ -46,6 +47,7 @@ nav ul{
 .banner-summery{
     font-size: 48px;
     font-weight: 700;
+    text-align: center;
 
     /* banner description */
     .paragraph
@@ -53,10 +55,15 @@ nav ul{
     font-weight: 400;
 
     
-    
 
-    
-    
+
+}
+
+
+/* banner description2 */
+.banner-des{
+    font-weight: 400;
+    font-size: 15px;
 }
 
 .btn-primary{
@@ -82,12 +89,40 @@ border-radius: 8px;
     margin: 32px 377px;
 }
 banner-image1{
-    width: 240.28px;
-    height: 240px;
+    max-width: 958px;
+   position: relative;
     
 
 }
 
-.header{
-    background-image: url() ;
-}
+ header{
+    max-width: 958px;
+    margin:119px 69px 90px 73px;
+ }
+
+
+ .section-title{
+    font-size: 32px;
+    font-weight: 700;
+    color: #0D1321;
+ }
+
+ /* main styles */
+ main{
+    max-width: 1140px;
+    margin: 119px 69px 90px 73px;
+    border-radius: 16px;
+    
+ }
+
+ item description{
+    display: vertical;
+    justify-content: last baseline;
+
+ }
+
+ button-layout{
+    position: -webkit-sticky;
+ }
+
+ 
