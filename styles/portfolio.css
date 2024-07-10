@@ -122,6 +122,8 @@ banner-image1{
  .btn-primary3{
     position: inherit;
     padding: 12px 20px;
+    margin-top: 32px;
+    margin-bottom: 10.5px;
 
 
  }
@@ -134,9 +136,20 @@ item-titles{
     color: #FFFFFF ;
 
 }
+
+.container{
+    margin-inline-start: auto;
+    grid-template-columns: auto;
+    column-gap: 5px;
+
+}
+.heading2{
+    text-align: center;
+    
+}
 item-description{
     display: flex;
-    align-items: center;
+    align-items: center;}
 
 
 
