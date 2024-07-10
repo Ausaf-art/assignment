@@ -114,15 +114,18 @@ banner-image1{
     border-radius: 16px;
     
  }
+about-items{
+    margin: 48px;
 
- item description{
-    display: vertical;
-    justify-content: last baseline;
+}
 
- }
+item-titles{
+    color: #FFFFFF ;
 
- button-layout{
-    position: -webkit-sticky;
- }
+}
+item-title{
+    font-size: ;
+}
 
+ 
  
